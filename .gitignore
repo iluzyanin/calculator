@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# vscode
+.vscode/
+
+# continuous tdd python script:
+# while python sleep_until_modified.py calculator.py || sleep 1; do python test_calculator.py ; done
+sleep_until_modified.py
