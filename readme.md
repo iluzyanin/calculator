@@ -1,0 +1,3 @@
+### Calculator
+This is a small "hands-on" project on Python (learning the hard way). A simple implementation of [Shunting-yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm) together with Postfix algorithm to evaluate the [Reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation).
+A modest attempt was also made to unit test (in TDD way) the calculation stages.
